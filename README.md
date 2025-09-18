@@ -26,6 +26,7 @@ Aplikasi ini dibuat untuk mengarsipkan surat-surat resmi desa dalam bentuk PDF a
 
 ## 3.Import database database/arsip_surat.sql ke MySQL.
 
+Di Kolom Pencarian, ketik arsip_suart.sql
 
 
 ## 4.Jalankan server:
